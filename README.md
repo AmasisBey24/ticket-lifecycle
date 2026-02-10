@@ -69,7 +69,7 @@
 
 <p align="center">
 <img width="80%" height="80%" alt="OSTicket68747470733a2f2f692e696d6775722e636f6d2f4475336b6d75692e706e67" src="https://github.com/user-attachments/assets/0958a679-bc06-4b41-87d8-1b6c4cd1d064" />
- <img src="https://i.imgur.com/yg9TXep.png" height="80%" width="80%" alt="Azure Free Services"/>
+<img width="80%" height="80%" alt="OSTicket68747470733a2f2f692e696d6775722e636f6d2f796739545865702e706e67 copy" src="https://github.com/user-attachments/assets/4b69b06a-64bb-414b-b510-7e0faff2b5ea" />
 </p>
 
 <h3>Stage 3: Working the Issue</h3>
