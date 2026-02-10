@@ -39,7 +39,8 @@
   - Create Ticket
 
 <p align="center">
-<img src="https://i.imgur.com/G7Ak6uI.png" height="70%" width="70%" alt="Azure Free Account"/> <img src="https://i.imgur.com/UdiPc1s.png" height="70%" width="70%" alt="Azure Free Services"/>
+<img width="70%" height="70%" alt="68747470733a2f2f692e696d6775722e636f6d2f4737416b3675492e706e67 copy" src="https://github.com/user-attachments/assets/5faf04d8-a5c7-40f6-834a-edac0c267d2b" />
+<img width="70%" height="70%" alt="68747470733a2f2f692e696d6775722e636f6d2f556469506331732e706e67 copy" src="https://github.com/user-attachments/assets/e9224646-df17-4edd-a8fc-1e7eb58ee251" />
 </p>
 
 
