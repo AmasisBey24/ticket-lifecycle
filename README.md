@@ -2,7 +2,7 @@
 <img width="5120" height="560" alt="xbanner_osTicket-5120x560w jpg pagespeed ic VHDbUulfIn copy" src="https://github.com/user-attachments/assets/3e51d352-6694-44e3-8d41-58a0ebc4df10" />
 </p>
 
-<h1>osTicket - Ticket Lifecycle: Intake Through Resolution</h1>
+<h1>osTicket - Ticket Lifecycle: Using Resolution Center</h1>
 
 <h2>Environments and Technologies Used</h2>
 
