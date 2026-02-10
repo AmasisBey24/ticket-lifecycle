@@ -28,7 +28,7 @@
 
 - Open osTicket
 	- If you need help installing osTicket, please see Part 1 [here](https://github.com/AmasisBey24/osticket-prereqs)
- 	- If you need help configuring osTicket, please see Part 2 of this tutorial series [here](https://github.com/RoslyndWilliams/osTicket--Post-Install-Configuration)
+ 	- If you need help configuring osTicket, please see Part 2 [here](https://github.com/AmasisBey24/post-install-config)
 
 - Select Open a New Ticket
   - Email Address: <a href='#' style='text-decoration: none; color:#000000'>johnson@osTicket.com</a>
