@@ -52,7 +52,7 @@
   
   
 <p align="center">
-<img src="https://i.imgur.com/sDgzS36.png" height="80%" width="80%" alt="Azure Free Account"/> 
+<img width="80%" height="80%" alt="OSTicket68747470733a2f2f692e696d6775722e636f6d2f7344677a5333362e706e67" src="https://github.com/user-attachments/assets/84b2466b-b979-46c1-bb52-4b2ec3bda24c" />
 </p>
 
 
@@ -68,7 +68,8 @@
 
 
 <p align="center">
-<img src="https://i.imgur.com/Du3kmui.png" height="80%" width="80%" alt="Azure Free Account"/> <img src="https://i.imgur.com/yg9TXep.png" height="80%" width="80%" alt="Azure Free Services"/>
+<img width="80%" height="80%" alt="OSTicket68747470733a2f2f692e696d6775722e636f6d2f4475336b6d75692e706e67" src="https://github.com/user-attachments/assets/0958a679-bc06-4b41-87d8-1b6c4cd1d064" />
+ <img src="https://i.imgur.com/yg9TXep.png" height="80%" width="80%" alt="Azure Free Services"/>
 </p>
 
 <h3>Stage 3: Working the Issue</h3>
