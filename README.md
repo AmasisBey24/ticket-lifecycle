@@ -86,9 +86,10 @@
 - Since it has been resolved, the ticket should now be on the Closed tab.
 
 <p align="center">
-<img src="https://i.imgur.com/et8h651.png" height="80%" width="80%" alt="Azure Free Account"/> <img src="https://i.imgur.com/TUo3T0Q.png" height="80%" width="80%" alt="Azure Free Services"/>
+<img width="80%" height="80%" alt="OSTicket68747470733a2f2f692e696d6775722e636f6d2f657438683635312e706e67 copy" src="https://github.com/user-attachments/assets/d69b5967-8c97-4f36-a444-c342cd9bffec" />
+<img width="80%" height="80%" alt="68747470733a2f2f692e696d6775722e636fOSTicket6d2f54556f335430512e706e67" src="https://github.com/user-attachments/assets/3eb45a8b-55b9-4097-baa7-ccf7c692fdc6" />
 </p>
 
 
-🎉Congratulations! You have created and resolved your first ticket! You have completed the third and final part of this three-part osTicket Install/Configuration/Ticket-Creation tutorial series.🎉
+✅Congrats! You have created and resolved your first ticket!
   
